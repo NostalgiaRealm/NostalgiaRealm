@@ -1,0 +1,68 @@
+{
+  "updated": "2026-11-10",
+  "youtube": {
+    "subscribers": 156000,
+    "videos": 2182,
+    "views": 108606311,
+    "source": "manual snapshot 2026-11-10"
+  },
+  "github": {
+    "repos": 12,
+    "contributed": 9,
+    "stars": 11,
+    "commits": 95,
+    "followers": 1,
+    "loc_add": 35170218,
+    "loc_del": 93644,
+    "loc_by_repo": {
+      "gimmie-sticker": [
+        0,
+        0
+      ],
+      "A2-Racer-4-Fixes": [
+        29177,
+        21380
+      ],
+      "Davitools": [
+        0,
+        0
+      ],
+      "RedCat-Superkarts-Widescreen-Fix": [
+        1787,
+        678
+      ],
+      "Madagascar-Widescreen": [
+        3284,
+        1328
+      ],
+      "RedCat-Spookkasteel": [
+        14,
+        10
+      ],
+      "d7vk": [
+        0,
+        0
+      ],
+      "DG_Decompile": [
+        15130368,
+        0
+      ],
+      "RedCat-SuperKarts": [
+        15004900,
+        65772
+      ],
+      "A2-Racer-4": [
+        5000688,
+        4476
+      ],
+      "RedCat-Spookkasteel-DS": [
+        0,
+        0
+      ],
+      "notes-android": [
+        0,
+        0
+      ]
+    }
+  }
+}

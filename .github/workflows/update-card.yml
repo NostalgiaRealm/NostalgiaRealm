@@ -1,0 +1,42 @@
+name: Refresh profile card
+
+on:
+  schedule:
+    - cron: "23 3 * * *"        # daily, 03:23 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - data/profile.json
+      - scripts/generate_card.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-card
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Render card
+        env:
+          # PROFILE_TOKEN (optional PAT) also counts private contributions
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+          # optional: live subscriber/video/view counts
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python3 scripts/generate_card.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/nostalgiarealm-card.svg data/stats.json
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Refresh profile card stats"
+          git push

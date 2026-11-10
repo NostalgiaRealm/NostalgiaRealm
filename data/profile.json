@@ -1,0 +1,33 @@
+{
+  "github_login": "NostalgiaRealm",
+  "youtube_handle": "@Nostalgia_Realm",
+  "prompt_user": "rick",
+  "prompt_host": "nostalgiarealm",
+  "channel_start": "2009-07-01",
+  "channel_start_label": "YouTube since Jul 2009",
+  "tagline": "the place to be for nostalgia inducing videos",
+  "system": [
+    ["OS", "Fedora Linux KDE, Kubuntu, Debian, Windows on the side"],
+    ["Uptime", "{uptime}"],
+    ["Host", "Nostalgia Realm YouTube Channel, DigiAdvies (media digitizing)"],
+    ["Kernel", "YouTuber, Streamer, Game Preservationist"],
+    ["Languages.Real", "Dutch, English"],
+    ["Hobbies.Software", "Reverse Engineering, Vibecoding (for good), Getting stuff to run"],
+    ["Hobbies.Hardware", "Repairing devices: Laptops, Phones, Desktops"],
+    ["Hobbies.Media", "Archiving, Gaming, Video creation, Editing videos and pictures"]
+  ],
+  "rebuilds_title": "Rebuilds",
+  "rebuilds_note": "games.nostalgiarealm.com",
+  "rebuilds": [
+    ["RedCat SuperKarts", "WebGL port, original assets"],
+    ["RedCat Spookkasteel", "Linux, Windows, Web & Nintendo DS"],
+    ["A2 Racer 4", "x86 recompiled to WebAssembly"]
+  ],
+  "contact": [
+    ["Website", "www.nostalgiarealm.com"],
+    ["YouTube", "youtube.com/@Nostalgia_Realm"],
+    ["Twitch", "twitch.tv/nostalgia_realm"],
+    ["Discord", "discord.gg/TYWdGUGChB"],
+    ["Email", "info@nostalgiarealm.com"]
+  ]
+}
