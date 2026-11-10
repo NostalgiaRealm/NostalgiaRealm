@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://www.youtube.com/@Nostalgia_Realm">YouTube</a> ·
   <a href="https://twitch.tv/nostalgia_realm">Twitch</a> ·
-  <a href="https://games.nostalgiarealm.com">Play the rebuilds</a> ·
   <a href="https://ko-fi.com/nostalgiarealm">Ko-fi</a> ·
   <a href="https://discord.gg/TYWdGUGChB">Discord</a>
 </p>
