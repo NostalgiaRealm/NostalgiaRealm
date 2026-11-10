@@ -7,12 +7,12 @@
     "source": "manual snapshot 2026-11-10"
   },
   "github": {
-    "repos": 12,
+    "repos": 13,
     "contributed": 9,
     "stars": 11,
-    "commits": 95,
+    "commits": 96,
     "followers": 1,
-    "loc_add": 35170218,
+    "loc_add": 35171484,
     "loc_del": 93644,
     "loc_by_repo": {
       "gimmie-sticker": [
@@ -61,6 +61,10 @@
       ],
       "notes-android": [
         0,
+        0
+      ],
+      "NostalgiaRealm": [
+        1266,
         0
       ]
     }
