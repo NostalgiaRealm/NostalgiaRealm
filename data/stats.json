@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "youtube": {
     "subscribers": 156000,
     "videos": 2182,
@@ -7,13 +7,13 @@
     "source": "manual snapshot 2026-11-10"
   },
   "github": {
-    "repos": 13,
+    "repos": 15,
     "contributed": 9,
     "stars": 11,
-    "commits": 97,
+    "commits": 106,
     "followers": 1,
-    "loc_add": 35171484,
-    "loc_del": 93645,
+    "loc_add": 48506593,
+    "loc_del": 93767,
     "loc_by_repo": {
       "gimmie-sticker": [
         0,
@@ -66,6 +66,14 @@
       "NostalgiaRealm": [
         1266,
         1
+      ],
+      "Maisys-Playhouse": [
+        13329049,
+        120
+      ],
+      "kdenlive-cube3d": [
+        6060,
+        2
       ]
     }
   }
