@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "youtube": {
     "subscribers": 156000,
     "videos": 2182,
@@ -10,10 +10,10 @@
     "repos": 15,
     "contributed": 9,
     "stars": 11,
-    "commits": 106,
+    "commits": 111,
     "followers": 1,
-    "loc_add": 48506593,
-    "loc_del": 93767,
+    "loc_add": 48771520,
+    "loc_del": 13594450,
     "loc_by_repo": {
       "gimmie-sticker": [
         0,
@@ -36,8 +36,8 @@
         1328
       ],
       "RedCat-Spookkasteel": [
-        14,
-        10
+        264726,
+        13500470
       ],
       "d7vk": [
         0,
@@ -52,8 +52,8 @@
         65772
       ],
       "A2-Racer-4": [
-        5000688,
-        4476
+        5000903,
+        4699
       ],
       "RedCat-Spookkasteel-DS": [
         0,
