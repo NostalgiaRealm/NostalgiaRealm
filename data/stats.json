@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "youtube": {
     "subscribers": 156000,
     "videos": 2182,
@@ -12,8 +12,8 @@
     "stars": 12,
     "commits": 113,
     "followers": 1,
-    "loc_add": 48777395,
-    "loc_del": 13594497,
+    "loc_add": 48779716,
+    "loc_del": 13594688,
     "loc_by_repo": {
       "gimmie-sticker": [
         0,
@@ -40,8 +40,8 @@
         13500517
       ],
       "d7vk": [
-        0,
-        0
+        2321,
+        191
       ],
       "DG_Decompile": [
         15130368,
