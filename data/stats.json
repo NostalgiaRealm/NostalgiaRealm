@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "youtube": {
     "subscribers": 156000,
     "videos": 2182,
@@ -10,10 +10,10 @@
     "repos": 15,
     "contributed": 9,
     "stars": 12,
-    "commits": 113,
+    "commits": 117,
     "followers": 1,
-    "loc_add": 48779716,
-    "loc_del": 13594688,
+    "loc_add": 49387436,
+    "loc_del": 26301646,
     "loc_by_repo": {
       "gimmie-sticker": [
         0,
@@ -48,8 +48,8 @@
         0
       ],
       "RedCat-SuperKarts": [
-        15004900,
-        65772
+        15612620,
+        12772730
       ],
       "A2-Racer-4": [
         5000903,
